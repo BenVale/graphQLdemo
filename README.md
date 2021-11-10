@@ -1,4 +1,4 @@
-# graphQldemo
+# graphQLdemo
 
 ## Build Setup
 
